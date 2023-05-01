@@ -1,5 +1,7 @@
   ATIVIDADE 5 DA DISCIPLINA DE PROGRAMAÇÃO ORIENTADA À OBJETOS
-                  PROFESSORA: Ayla Rebouças
+                  
+     PROFESSORA: Ayla Rebouças
+
 ALUNOS: Felipe José de Medeiros Melo, João Victor de Souza Cardazo, João Lucas Silva Acioli
 
 Implementamos a interface GUI com uma tabela de produtos com seus preços, contém uma funcionalidade de adicionar, remover e salvar os dados em um arquivo .txt
